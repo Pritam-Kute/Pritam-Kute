@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritam-Kute&label=Profile%20Views&color=0e75b6&style=flat" alt="Pritam-Kute" /> </p>
 
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React, Node-js/Express-js And MongoDB on [A2Z It-Hub](https://a2zithub.org/);
-- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;  All of my projects are available at : [Pritam-Kute](github.com/pritam-kute);
+- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;  All of my projects are available at : [Here](https://github.com/Pritam-Kute?tab=repositories);
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me : pritamkute1171@gmail.com;
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **React,express-js/Node-js,Mongo-db**;
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://linkedin.com/in/www.linkedin.com/in/pritam-kute1).
