@@ -33,7 +33,8 @@
 </p>
 
 ### Quick stats about me
-
+| Github Stats | Streak Stats |
+| --- | --- |
 | ![Sy's Github Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Pritam-Kute&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) | ![Sy's Top Languages](https://github-readme-streak-stats-salesp07.vercel.app/?user=Pritam-Kute&count_private=true&theme=react&border_radius=10) |
 
 <div align=center>
