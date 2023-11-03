@@ -1,11 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam+Kute!;" />
 </h1>
 <h3 align="center">A passionate frontend & Back-end developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritam-Kute&label=Profile%20views&color=0e75b6&style=flat" alt="Pritam-Kute" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritam-Kute&label=Profile%20Views&color=0e75b6&style=flat" alt="Pritam-Kute" /> </p>
 
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React, Node-js/Express-js And MongoDB on [A2Z It-Hub](https://a2zithub.org/);
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;  All of my projects are available at : [Pritam-Kute](github.com/pritam-kute);
@@ -42,7 +41,7 @@
 | ![Sy's Github Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Pritam-Kute&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) | ![Sy's Top Languages](https://github-readme-streak-stats-salesp07.vercel.app/?user=Pritam-Kute&count_private=true&theme=react&border_radius=10) |
 
 <div align=center>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-Kute&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-Kute&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pritam-kute" />
 </div>
 <hr/>
 <h3 align="center">
