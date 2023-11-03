@@ -10,7 +10,7 @@
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;  All of my projects are available at : [Here](https://github.com/Pritam-Kute?tab=repositories).
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me : pritamkute1171@gmail.com.
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **React | Express-js/Node-js | Mongo-db**.
-- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://linkedin.com/in/www.linkedin.com/in/pritam-kute1).
+- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://linkedin.com/in/pritam-kute1).
 
 
 <h3 align="left">Connect with me:</h3>
