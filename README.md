@@ -31,14 +31,14 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
-<div>
+
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's Github Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Pritam-Kute&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) | ![Sy's Top Languages](https://github-readme-streak-stats-salesp07.vercel.app/?user=Pritam-Kute&count_private=true&theme=react&border_radius=10) |
-</div>
+
 <div align=center>
-><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-Kute&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-Kute&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" />
 </div>
 <hr/>
 <h3 align="center">
