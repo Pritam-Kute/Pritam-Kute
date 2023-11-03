@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **pritamkute1171@gmail.com**
 
-- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React, Node-js/Express-js And MongoDB [A2Z It-Hub](https://a2zithub.org/);
+- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React, Node-js/Express-js And MongoDB [A2Z It-Hub](https://a2zithub.org/);
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;  All of my projects are available at:[Pritam-Kute](github.com/pritam-kute);
-- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pritamkute1171@gmail.com;
-- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **React,express-js/Node-js,Mongo-db**;
-- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://linkedin.com/in/www.linkedin.com/in/pritam-kute1);
+- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pritamkute1171@gmail.com;
+- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **React,express-js/Node-js,Mongo-db**;
+- <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://linkedin.com/in/www.linkedin.com/in/pritam-kute1).
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,11 +33,5 @@
 | --- | --- |
 |  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> |  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> |
 <div align=center>
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
- ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
-
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </div>
