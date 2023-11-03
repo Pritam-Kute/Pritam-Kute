@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">A passionate frontend & Back-end developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-kute&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-kute" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritam-Kute&label=Profile%20views&color=0e75b6&style=flat" alt="Pritam-Kute" /> </p>
 
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React, Node-js/Express-js And MongoDB on [A2Z It-Hub](https://a2zithub.org/);
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;  All of my projects are available at : [Pritam-Kute](github.com/pritam-kute);
@@ -35,10 +35,10 @@
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-|  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> |  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> |
+|  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Pritam-Kute&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> |  <img width=390 src="https://github-readme-streak-stats-Pritam-Kute.vercel.app/?user=Pritam-Kute&count_private=true&theme=react&border_radius=10" alt="streak stats"/> |
 <div align=center>
 <hr/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-Pritam-Kute.vercel.app/api/top-langs/?username=Pritam-Kute&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <h3 align="center">
  <hr/>      
