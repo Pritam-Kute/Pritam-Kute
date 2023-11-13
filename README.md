@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam+Kute!;" />
 </h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
+<h3 align="center">while (!( succeed = try ()))</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritam-Kute&label=Profile%20Views&color=0e75b6&style=flat" alt="Pritam-Kute" /> </p>
 
 - <img src="https://github.com/Pritam-Kute/Pritam-Kute/blob/main/Assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React, Node-js/Express-js And MongoDB on [A2Z It-Hub](https://a2zithub.org/).
